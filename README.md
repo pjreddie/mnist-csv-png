@@ -1,5 +1,11 @@
 # MNIST in CSV and PNG #
 
+OH WOW NUMBERS WHAT A GOOD DATASET.
+
+No, I like MNIST, just please don't use it in an actual paper.
+
+From: http://yann.lecun.com/exdb/mnist/
+
 ## PNG ##
 
 - [mnist_train.tar.gz (14 MB)](https://pjreddie.com/media/files/mnist_train.tar.gz)
